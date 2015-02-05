@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
+url: http://itgreen.github.io
+title: 又搞了个Octopress，我真会折腾
+subtitle: 有些事情,再不去做就忘了.有些人,再不去找就没了.
 author: Your Name
 simple_search: https://www.google.com/search
 description:
