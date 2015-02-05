@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[我的Octopress博客]]></title>
+  <title><![CDATA[又搞了个Octopress，我真会折腾]]></title>
   <link href="http://itgreen.github.io/atom.xml" rel="self"/>
   <link href="http://itgreen.github.io/"/>
-  <updated>2015-02-05T14:35:02+08:00</updated>
+  <updated>2015-02-05T14:53:12+08:00</updated>
   <id>http://itgreen.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
