@@ -4,7 +4,7 @@
   <title><![CDATA[又搞了个Octopress，我真会折腾]]></title>
   <link href="http://itgreen.github.io/atom.xml" rel="self"/>
   <link href="http://itgreen.github.io/"/>
-  <updated>2015-02-05T14:53:12+08:00</updated>
+  <updated>2015-02-05T16:59:59+08:00</updated>
   <id>http://itgreen.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[去外面的世界看一看]]></title>
-    <link href="http://itgreen.github.io/blog/2015/02/05/hello%20world/"/>
+    <link href="http://itgreen.github.io/blog/2015/02/05/hello-world/"/>
     <updated>2015-02-05T11:54:29+08:00</updated>
-    <id>http://itgreen.github.io/blog/2015/02/05/hello world</id>
+    <id>http://itgreen.github.io/blog/2015/02/05/hello-world</id>
     <content type="html"><![CDATA[<p>天地太宽阔，宇宙太宽阔，我只不过如蜉蝣般渺小，想要用自己这短暂的一生去丈量外面的世界。</p>
 
 <p>明知如飞蛾扑火，可只要有过梦，有过这一段路，就是不同的人生了呀。</p>
