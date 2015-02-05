@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://itgreen.github.io/sitemap.xml 

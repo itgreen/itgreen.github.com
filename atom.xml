@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[我的Octopress博客]]></title>
+  <link href="http://itgreen.github.io/atom.xml" rel="self"/>
+  <link href="http://itgreen.github.io/"/>
+  <updated>2015-02-05T14:35:02+08:00</updated>
+  <id>http://itgreen.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[去外面的世界看一看]]></title>
+    <link href="http://itgreen.github.io/blog/2015/02/05/hello%20world/"/>
+    <updated>2015-02-05T11:54:29+08:00</updated>
+    <id>http://itgreen.github.io/blog/2015/02/05/hello world</id>
+    <content type="html"><![CDATA[<p>天地太宽阔，宇宙太宽阔，我只不过如蜉蝣般渺小，想要用自己这短暂的一生去丈量外面的世界。</p>
+
+<p>明知如飞蛾扑火，可只要有过梦，有过这一段路，就是不同的人生了呀。</p>
+
+<p>年轻时若能有“一蓑烟雨任平生”的勇气，老时求个“也无风雨也无晴”也是颇有情调的啊。</p>
+
+<p>人这一生不能只为金钱而活，不能只在同一个地方而活，不能只为生计、婚姻和孩子而活。</p>
+
+<p>它们并非不重要，但——还是王小波的话，他说“我活在世上，无非想要明白些道理，遇见些有趣的事。”</p>
+]]></content>
+  </entry>
+  
+</feed>
